@@ -1,0 +1,28 @@
+[
+  {
+    "category": "vehicle",
+    "key": "cv",
+    "name": "BMS – Universal Assembly Rig",
+    "bmat": 100,
+    "emat": 0,
+    "hemat": 0,
+    "rmat": 0,
+    "mpfTime": 5000,
+    "craftableInMpf": true,
+    "requireTech": false,
+    "ammo": []
+  },
+  {
+    "category": "vehicle",
+    "key": "crane",
+    "name": "BMS – Class 2 Mobile Auto-Crane",
+    "bmat": 125,
+    "emat": 0,
+    "hemat": 0,
+    "rmat": 0,
+    "mpfTime": 6250,
+    "craftableInMpf": true,
+    "requireTech": false,
+    "ammo": []
+  }
+]
